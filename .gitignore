@@ -1,0 +1,15 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Add keys to .gitignore
+botKey.json
+googleKey.json
+googleSheetData.json
+
+# Virtual environments
+.venv
